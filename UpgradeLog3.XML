@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cubo3">
+</Property><Property Name="Solution File" Value="M:\My Developer\Mala\ACTUAL\Cubo3.sln">
+</Property><Property Name="User Options File" Value="M:\My Developer\Mala\ACTUAL\Cubo3.suo">
+</Property><Property Name="Date" Value="quarta-feira, 8 de Janeiro de 2014">
+</Property><Property Name="Time" Value="14:47">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cubo3.sln" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Cubo3.suo" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo3.suo">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj" Description="Project file successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo3.csproj">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj.user" Description="Project user file successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo3.csproj.user">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Component1.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Component1.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Component1.Designer.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Component1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Config.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Config.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="fichVista.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\fichVista.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="cSavePecaPrincipal.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\cSavePecaPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="fichWmservicos.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\fichWmservicos.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="teste.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\teste.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="TipoDeCompilcao.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\TipoDeCompilcao.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="UserControl1.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\UserControl1.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="UserControl1.Designer.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\UserControl1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMEdge.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMEdge.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMFileNameEditor.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMFileNameEditor.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMFlashComunication.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMFlashComunication.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMresource.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMresource.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMResources.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMResources.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WmServicos.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WmServicos.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="SaveAssemblyPrincipal.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\SaveAssemblyPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="MyTreeNode.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\MyTreeNode.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="SavePecaPrincipal.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\SavePecaPrincipal.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="fichAssembly.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\fichAssembly.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo.Designer.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="fichPeca.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\fichPeca.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="fichMainPreview.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\fichMainPreview.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="SaveAssemblyPreview.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\SaveAssemblyPreview.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="SavePecaPreview.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\SavePecaPreview.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WmElementoAssem.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WmElementoAssem.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMPeca.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMPeca.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMServicosConver.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMServicosConver.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMServicosMatrix.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMServicosMatrix.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WmTipo.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WmTipo.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMTipoAssembly.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMTipoAssembly.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMTipoElemento.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMTipoElemento.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMTipoPeca.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMTipoPeca.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMUV.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMUV.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMVertice.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMVertice.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMAssembly.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMAssembly.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMFace.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMFace.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMVista.cs" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\WMVista.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="ClassDiagram1.cd" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="ClassDiagram2.cd" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="ClassDiagram3.cd" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\ClassDiagram3.cd">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="ClassDiagram4.cd" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\ClassDiagram4.cd">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Settings.settings" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="todo.txt" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\todo.txt">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Component1.resx" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Component1.resx">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo.resx" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Cubo.resx">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Resources.resx" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="UserControl1.resx" Description="File successfully backed up as M:\My Developer\Mala\ACTUAL\Backup1\UserControl1.resx">
+</Event><Event ErrorLevel="1" Project="Cubo3" Source="Cubo3.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cubo3" Source="Cubo3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cubo3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Cubo3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cubo3.Config" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEYAABgBEAgIBAAAAAAAAAgACAAAAAAgBEABAAAAQAA=</HashCode>
+      <FileName>Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.cSavePecaPrincipal" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAQQFAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>cSavePecaPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.frmCubo" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEGBQVIQAKYgQAgEAGKwJAAjIAQoMCKGcmQBBBZBEIY=</HashCode>
+      <FileName>Cubo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.Cubo" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAIIAAAAAACCAAAACAAAAAAAAAAAAABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.fichAssembly" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fichAssembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.fichMainPreview" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>fichMainPreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.fichPeca" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fichPeca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.fichWmservicos" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fichWmservicos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.MyTreeNode" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyTreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.SaveAssemblyPreview" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAgCCAgAAAAAAAAAAEAAAAFAAAgAAgwAAAAAAAAI=</HashCode>
+      <FileName>SaveAssemblyPreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.SaveAssemblyPrincipal" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAACAAAAAAAAAAAAAAAAAFAAAgAAAgAAAAAAAAA=</HashCode>
+      <FileName>SaveAssemblyPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.SavePecaPreview" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCCAAAAAAAAAgAAAAAQAFAAAAAAggAAABAAAAA=</HashCode>
+      <FileName>SavePecaPreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.SavePecaPrincipal" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAQQFAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>SavePecaPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMAssembly" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAQAAQgAAAAAAAAAAAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>WMAssembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WmElementoAssem" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WmElementoAssem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMFace" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>WMFace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMPeca" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>WMPeca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WmServicos" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEBAAAAAAAAAAQAEAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>WmServicos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMServicosConver" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>WMServicosConver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMServicosMatrix" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACAAAABAAAAAAAAQAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>WMServicosMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WmTipo" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAACAAIAAAAAAIAAA=</HashCode>
+      <FileName>WmTipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMTipoAssembly" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIIAAQAAAAAAAABAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>WMTipoAssembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMTipoElemento" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAACAAAAABAAAgAAAQAAAAIAAAAAIEQABBAJAAA=</HashCode>
+      <FileName>WMTipoElemento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMTipoPeca" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAwAAIABItAAAAAAQACCABAAAQAACAgCAcDAAIAgA=</HashCode>
+      <FileName>WMTipoPeca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMUV" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAEAAAAIAEAAAAAAAAAAAAEAAASAAA=</HashCode>
+      <FileName>WMUV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.WMVertice" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAWAAAAAAAAAAAAAAAkAAAAYAE=</HashCode>
+      <FileName>WMVertice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.Properties.Resources" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cubo3.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

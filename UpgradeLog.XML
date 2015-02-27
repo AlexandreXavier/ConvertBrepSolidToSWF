@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cubo3">
+</Property><Property Name="Solution File" Value="C:\Users\root\Desktop\project\Cubo3\Cubo3.sln">
+</Property><Property Name="Date" Value="terça-feira, 29 de Julho de 2008">
+</Property><Property Name="Time" Value="18:48:48">
+</Property></Properties><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj" Description="Project file successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Cubo3.csproj">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Cubo.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo.Designer.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Cubo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMPeca.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\WMPeca.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMUV.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\WMUV.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMVertice.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\WMVertice.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMAssembly.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\WMAssembly.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="WMFace.cs" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\WMFace.cs">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo.resx" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Cubo.resx">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\root\Desktop\project\Cubo3\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cubo3" Source="Cubo3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cubo3" Source="Cubo3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,4 @@
+Todo
+-fazer exemplo de verificar se geometria no assembly é igual a geometria no ipt
+-verificar se o tipo já tem geometria carregada
+-se a ocurrencia é principal mandar todos as peças deste tipo carrgar caso ainda na carragaram.
