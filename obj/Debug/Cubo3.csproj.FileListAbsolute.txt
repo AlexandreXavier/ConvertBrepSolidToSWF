@@ -1,0 +1,85 @@
+C:\Users\root\Desktop\project\Cubo3\obj\Debug\Cubo3.exe
+C:\Users\root\Desktop\project\Cubo3\obj\Debug\Cubo3.pdb
+C:\Users\root\Desktop\project\Cubo3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\root\Desktop\project\Cubo3\obj\Debug\Cubo3.frmCubo.resources
+C:\Users\root\Desktop\project\Cubo3\obj\Debug\Cubo3.Properties.Resources.resources
+C:\Users\root\Desktop\project\Cubo3\obj\Debug\Cubo3.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\Cubo3.exe
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\Cubo3.pdb
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\AxInterop.InventorViewControlLib.dll
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\ExternalInterfaceProxy.dll
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\Interop.Inventor.dll
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\Interop.InventorApprentice.dll
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\Interop.InventorViewControlLib.dll
+C:\Users\root\Desktop\project\Cubo3\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\Cubo3.exe
+C:\Users\root\Desktop\ACTUAL\bin\Debug\Cubo3.pdb
+C:\Users\root\Desktop\ACTUAL\bin\Debug\AxInterop.InventorViewControlLib.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\ExternalInterfaceProxy.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\Interop.Inventor.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\Interop.InventorApprentice.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\Interop.InventorViewControlLib.dll
+C:\Users\root\Desktop\ACTUAL\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\root\Desktop\ACTUAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.frmCubo.resources
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.Properties.Resources.resources
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.exe
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.pdb
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.Component1.resources
+C:\Users\root\Desktop\ACTUAL\obj\Debug\Cubo3.UserControl1.resources
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.exe
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.pdb
+L:\My Projects\Projectos\ACTUAL\bin\Debug\Cubo3.exe
+L:\My Projects\Projectos\ACTUAL\bin\Debug\Cubo3.pdb
+L:\My Projects\Projectos\ACTUAL\bin\Debug\AxInterop.InventorViewControlLib.dll
+L:\My Projects\Projectos\ACTUAL\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+L:\My Projects\Projectos\ACTUAL\bin\Debug\ExternalInterfaceProxy.dll
+L:\My Projects\Projectos\ACTUAL\bin\Debug\Interop.Inventor.dll
+L:\My Projects\Projectos\ACTUAL\bin\Debug\Interop.InventorApprentice.dll
+L:\My Projects\Projectos\ACTUAL\bin\Debug\Interop.InventorViewControlLib.dll
+L:\My Projects\Projectos\ACTUAL\bin\Debug\Interop.ShockwaveFlashObjects.dll
+L:\My Projects\Projectos\ACTUAL\obj\Debug\ResolveAssemblyReference.cache
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.Component1.resources
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.frmCubo.resources
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.Properties.Resources.resources
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.UserControl1.resources
+L:\My Projects\Projectos\ACTUAL\obj\Debug\Cubo3.csproj.GenerateResource.Cache
+M:\My Developer\Mala\ACTUAL\obj\Debug\Cubo3.exe
+M:\My Developer\Mala\ACTUAL\obj\Debug\Cubo3.pdb
+M:\My Developer\Mala\ACTUAL\bin\Debug\Cubo3.exe
+M:\My Developer\Mala\ACTUAL\bin\Debug\Cubo3.pdb
+M:\My Developer\Mala\ACTUAL\bin\Debug\AxInterop.InventorViewControlLib.dll
+M:\My Developer\Mala\ACTUAL\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+M:\My Developer\Mala\ACTUAL\bin\Debug\ExternalInterfaceProxy.dll
+M:\My Developer\Mala\ACTUAL\bin\Debug\Interop.Inventor.dll
+M:\My Developer\Mala\ACTUAL\bin\Debug\Interop.InventorApprentice.dll
+M:\My Developer\Mala\ACTUAL\bin\Debug\Interop.InventorViewControlLib.dll
+M:\My Developer\Mala\ACTUAL\bin\Debug\Interop.ShockwaveFlashObjects.dll
+M:\My Developer\Mala\ACTUAL\obj\Debug\ResolveAssemblyReference.cache
+M:\My Developer\Mala\ACTUAL\obj\Debug\Cubo3.Component1.resources
+M:\My Developer\Mala\ACTUAL\obj\Debug\Cubo3.frmCubo.resources
+M:\My Developer\Mala\ACTUAL\obj\Debug\Cubo3.Properties.Resources.resources
+M:\My Developer\Mala\ACTUAL\obj\Debug\Cubo3.UserControl1.resources
+M:\My Developer\Mala\ACTUAL\obj\Debug\GenerateResource-ResGen.read.1.tlog
+M:\My Developer\Mala\ACTUAL\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\ACTUAL\obj\Debug\Cubo3.exe
+C:\ACTUAL\obj\Debug\Cubo3.pdb
+C:\ACTUAL\bin\Debug\Cubo3.exe
+C:\ACTUAL\bin\Debug\Cubo3.pdb
+C:\ACTUAL\bin\Debug\AxInterop.InventorViewControlLib.dll
+C:\ACTUAL\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\ACTUAL\bin\Debug\ExternalInterfaceProxy.dll
+C:\ACTUAL\bin\Debug\Interop.Inventor.dll
+C:\ACTUAL\bin\Debug\Interop.InventorApprentice.dll
+C:\ACTUAL\bin\Debug\Interop.InventorViewControlLib.dll
+C:\ACTUAL\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\ACTUAL\obj\Debug\ResolveAssemblyReference.cache
+C:\ACTUAL\obj\Debug\Cubo3.Component1.resources
+C:\ACTUAL\obj\Debug\Cubo3.frmCubo.resources
+C:\ACTUAL\obj\Debug\Cubo3.Properties.Resources.resources
+C:\ACTUAL\obj\Debug\Cubo3.UserControl1.resources
+C:\ACTUAL\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\ACTUAL\obj\Debug\GenerateResource-ResGen.write.1.tlog
